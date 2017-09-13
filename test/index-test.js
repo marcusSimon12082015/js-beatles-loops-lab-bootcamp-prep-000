@@ -31,6 +31,5 @@ describe('Beatles Loops', function() {
       expect(iLoveTheBeatles(17)).toEqual(["I love the Beatles!"]);
     });
   });
-
-});
 */
+});
